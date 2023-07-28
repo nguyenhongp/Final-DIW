@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Yum Saigon Bakery</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/owl.theme.default.css">
+<link rel="stylesheet" href="../css/hover.css">
+<link rel="icon" href="../images/logo.webp" type="image/x-icon">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<button type="button"
+  class="btn btn-danger" id="btn-back-to-top"> <i class="fas fa-chevron-up"></i> </button>
+<nav class="navbar navbar-expand-md mt-5">
+  <div class="container-fluid bg-header">
+	<div class="logo"><a class="navbar-brand" href="../index.html"><img src="../images/logo.webp" alt=""></a></div>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../index.html">TRANG CHỦ</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            SẢN PHẨM
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Bánh Kem</a></li>
+            <li><a class="dropdown-item" href="#">Bông lan trứng muối</a></li>
+			<li><a class="dropdown-item" href="#">Bánh kem bắp</a></li>
+            <li><a class="dropdown-item" href="#">Bánh lạnh</a></li>
+			<li><a class="dropdown-item" href="#">Bông lan Donut</a></li>
+            <li><a class="dropdown-item" href="#">Bánh & Hoa khô</a></li>
+			<li><a class="dropdown-item" href="#">Bánh mì</a></li>
+            <li><a class="dropdown-item" href="#">Tea Break</a></li>
+			<li><a class="dropdown-item" href="#">Cookies</a></li>
+            <li><a class="dropdown-item" href="#">Ngày lễ</a></li>
+			<li><a class="dropdown-item" href="#">Hoa</a></li>
+          </ul>
+        </li>
+		   <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            KHÓA HỌC
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="../hoc-truc-tiep.html">Lớp trực tiếp</a></li>
+            <li><a class="dropdown-item" href="#">Lớp Online</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../explore.html">LIÊN HỆ</a>
+        </li>
+      </ul>
+    </div>
+	<form class="d-flex" role="search">
+		<div class="collapse justify-content-end" id="Search" data-bs-theme="white">
+		<input class="form-control" type="Search" placeholder="Tìm Kiếm" aria-label="Search">
+		</div>
+        <button class="btn text-light" type="button" data-bs-toggle="collapse" data-bs-target="#Search" aria-controls="Search"><i class="fa fa-search"></i></button>
+      </form>
+  </div>
+</nav> 
+<!-- TemplateBeginEditable name="Fullwidth" -->
+<main></main>
+<!-- TemplateEndEditable -->
+<footer class="bg-dark text-light">
+	<div class="container">
+		<div class="row">
+		   	<div class="col-md-3">
+			    <a href="#"><img src="../images/logo.webp" alt="" class="img-fluid"></a>
+				<p>Chiếc bánh ngọt ngào thay lời yêu thương bạn muốn gửi đến những người đặc biệt trong cuộc đời mình</p>
+				<p><i class="fa fa-house-user fa-1x"></i> 49A Hoàng Hoa Thám P13 Q. Tân Bình</p>
+				<i class="fa fa-envelope my-4"></i>
+				<p><i class="fa fa-phone-alt"></i> 0938974656</p>
+			</div>
+			<div class="col-md-3">
+			<h4>Hỗ Trợ</h4>
+			<ul class="navbar-nav">
+				<button type="button" class="btn btn-outline-danger my-3"><li class="nav-item"><a href="../explore.html" class="nav-link">LIÊN HỆ</a></li></button>
+			    <button type="button" class="btn btn-outline-danger my-3"><li class="nav-item"><a href="../hoc-truc-tiep.html" class="nav-link">LỚP HỌC</a></li></button>
+				</ul>
+			</div>
+			<div class="col-md-3">
+			<h4>Giờ Mở Cửa</h4>
+			<p class="my-4">Thứ 2 - CN</p>
+			<p>7h30 - 21h</p>
+			</div>
+			<div class="col-md-3">
+			<h4>Fanpage</h4>
+			<a href="#"><img src="../images/facepage.png" alt="" class="img-fluid my-3"></a>
+			<h5>Theo dõi:</h5>
+			<div class="d-flex justify-content-center">
+				<a href="#"><i class="fab fa-twitter fa-2x text-light mx-3"></i></a>
+				<a href="#"><i class="fab fa-facebook fa-2x text-light mx-3"></i></a>
+				<a href="#"><i class="fab fa-youtube fa-2x text-light mx-3"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</footer>
+<script src="../js/jquery-3.6.0.min.js"></script>
+<script src="../js/jvs.js"></script>
+<script src="../js/owl.carousel.js"></script>
+<script src="../js/custome.js"></script>
+</body>
+</html>
